@@ -1,2 +1,3 @@
 # hello-world
-tutorial
+
+This is just a useless example text explaining nothing and helping nobody.
